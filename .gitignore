@@ -1,0 +1,10 @@
+.env
+venv/
+__pycache__/
+*.pyc
+*.pkl
+data/raw/
+data/staged/
+data/curated/
+genai/rag/embeddings.pkl
+genai/rag/faiss_index

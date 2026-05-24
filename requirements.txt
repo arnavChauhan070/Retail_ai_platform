@@ -1,0 +1,11 @@
+pandas
+scikit-learn
+pyarrow
+fastparquet
+pymongo==4.7.2
+azure-search-documents==11.4.0
+azure-core
+python-dotenv
+fastapi
+uvicorn
+openai
